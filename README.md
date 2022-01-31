@@ -1,1 +1,1 @@
-Main page: [Test]("http://www.google.com")
+Main page: [Test](http://www.google.com)
